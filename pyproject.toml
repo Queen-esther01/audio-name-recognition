@@ -1,0 +1,19 @@
+[project]
+name = "names-recogniser-backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "keras>=3.13.1",
+    "librosa>=0.11.0",
+    "matplotlib>=3.10.8",
+    "moviepy>=2.2.1",
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+    "plotly>=6.5.2",
+    "scikit-learn>=1.8.0",
+    "sounddevice>=0.5.5",
+    "streamlit>=1.53.1",
+    "tensorflow>=2.20.0",
+]
