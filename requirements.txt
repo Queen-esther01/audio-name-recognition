@@ -22,9 +22,7 @@ cachetools==6.2.5
 certifi==2026.1.4
     # via requests
 cffi==2.0.0
-    # via
-    #   sounddevice
-    #   soundfile
+    # via soundfile
 charset-normalizer==3.4.4
     # via requests
 click==8.3.1
@@ -232,8 +230,6 @@ six==1.17.0
     #   tensorflow
 smmap==5.0.2
     # via gitdb
-sounddevice==0.5.5
-    # via names-recogniser-backend (pyproject.toml)
 soundfile==0.13.1
     # via librosa
 soxr==1.0.0

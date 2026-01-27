@@ -7,7 +7,7 @@ import pandas as pd
 import soundfile as sf
 import librosa.feature
 import plotly.io as pio
-import sounddevice as sd
+# import sounddevice as sd
 from pathlib import Path
 import plotly.express as px
 from sklearn import metrics
